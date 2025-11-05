@@ -1,0 +1,12 @@
+subnautica = {
+    "4546B": "planeta de subnautica",
+    "alan":"aliennigena de subnautica",
+    "hollow":"cavaleiro vaziu",
+    "deck":"conjunto de cartas"
+}
+word = input("palavra: ")
+
+for i on range(len(subneutica)):
+    if word == "4546b":
+        
+        print(dicionario[i])
